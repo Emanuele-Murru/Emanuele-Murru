@@ -20,10 +20,9 @@
 
 
  😂 Random Dev Meme 😂
- <div align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
----
-[![](https://visitcount.itsvg.in/api?id=Emanuele-Murru&icon=9&color=6)](https://visitcount.itsvg.in)
+<div align="center">
+ <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+[![](https://visitcount.itsvg.in/api?id=Emanuele-Murru&icon=9&color=6)](https://visitcount.itsvg.in)]
  </div> 
 
 <div> 
