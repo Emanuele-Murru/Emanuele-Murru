@@ -25,3 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emanuele-murru&" alt="emanuele-murru" /></p>
 
+![Snake animation](https://github.com/Emanuele-Murru/Emanuele-Murru/blob/output/github-contribution-grid-snake.svg)
+ 
