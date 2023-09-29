@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emanuele</h1>
 <h3 align="center">A passionate frontend developer from Sardinia</h3>
 
-
+<img src="https://www.leidos.com/sites/leidos/files/styles/scale_narrow/public/Leidos_Softskills.gif?itok=EBALPQ2i">
 
 # 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanuele-murru&label=Profile%20views&color=0e75b6&style=flat" alt="emanuele-murru" /> </p>
