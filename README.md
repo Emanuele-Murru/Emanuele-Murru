@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emanuele</h1>
 <h3 align="center">A passionate frontend developer from Sardinia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emanuele-murru&label=Profile%20views&color=0e75b6&style=flat" alt="emanuele-murru" /> </p>
 
 
 # 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emanuele-murru&label=Profile%20views&color=0e75b6&style=flat" alt="emanuele-murru" /> </p>
 🔭 I’m currently working on **personal projects**<br>🌱 I’m currently learning **React, Angular, Java**<br>📫 How to reach me **murru.ema@gmail.com**
 
 
